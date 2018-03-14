@@ -1,3 +1,4 @@
-# First Chapter
+# 選擇提球機構
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+組員間選擇上學期所設計的提球機構，日後進行協同設計便用此機構維模組加以改善。
+
