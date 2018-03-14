@@ -1,3 +1,12 @@
-# My Awesome Book
+# 協同產品設計實習-CD9-國立虎尾科技大學-機械設計工程系
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+* 組員:
+
+        40523201 吳維柔
+
+        40523203 洪譽庭
+
+        40523240 潘睿澤
+
+
+
