@@ -4,3 +4,14 @@
 
 下載[https://github.com/mdecourse/vecp2018/tree/gh-pages/lua](https://github.com/mdecourse/vecp2018/tree/gh-pages/lua) 中的Lua-Chinese.pdf閱讀並學習Lua的程式語言，有助於日後使用以Lua為原型的Vrep。
 
+Lua體例:
+
+* ––&gt; :表示雨具的輸出或表達式的結果
+* &lt;––&gt; :等價。在Lua中，this &lt;––&gt; that
+
+Chunks:
+
+* 可以為一個或一系列語句的結合，還可以是函數，如果同一行有多個語句最好用"；"分開。在交互模式下，Lua通常將一個行當作一個Chunk，如果當一行不是一個完整的Chunk時，Lua會等待繼續輸入直到形成完整的Chunk。在Lua等待續行時，會顯示不同符號\(通常為&gt;&gt;\)
+
+
+
