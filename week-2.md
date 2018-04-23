@@ -1,10 +1,6 @@
-# **第二週**
+> # **第二週**
 
-###     列出各組組員的學號及組別
-
-
-
-
+### 列出各組組員的學號及組別
 
 ```
 with open("2b-raw.txt") as fh:
@@ -30,7 +26,6 @@ with open("2b-raw.txt") as fh:
                 print(groups[i])
             else:
                print(groups[i])
-
 ```
 
 ```

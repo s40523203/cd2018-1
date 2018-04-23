@@ -1,12 +1,12 @@
 > # 第五週:
 
-> #### 利用Excel做出 出缺席名單
+#### 利用Excel做出 出缺席名單
 
 #### [第二組學員缺席名單](https://github.com/s40523201/cd2018/blob/gh-pages/w5 absent list.xlsx)
 
 > #### 使用Python執行cd\_w5b.txt找出修課缺席名單
->
-> #### [檔案位置](https://github.com/s40523201/cd2018/tree/gh-pages/Week5)
+
+#### [檔案位置](https://github.com/s40523201/cd2018/tree/gh-pages/Week5)
 
 ```
 cd w5 出席名單        修課名單
