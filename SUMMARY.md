@@ -8,5 +8,4 @@
 * [week5](week5.md)
 * [week 7](week-7.md)
 * [鋼球循環機構報告](gang-qiu-xun-huan-ji-gou-bao-gao.md)
-* [s40523240潘睿澤　提球機構](s40523240pan-rui-ze-ti-qiu-ji-gou.md)
 
