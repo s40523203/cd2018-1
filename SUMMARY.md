@@ -9,4 +9,5 @@
 * [week 7](week-7.md)
 * [鋼球循環機構報告](gang-qiu-xun-huan-ji-gou-bao-gao.md)
 * [week10](week10.md)
+* [40523240三段式提球機構](40523240san-duan-shi-ti-qiu-ji-gou.md)
 
