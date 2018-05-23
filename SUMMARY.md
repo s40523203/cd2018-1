@@ -9,6 +9,9 @@
 * [week 7](week-7.md)
 * [鋼球循環機構報告](gang-qiu-xun-huan-ji-gou-bao-gao.md)
 * [week10](week10.md)
-* [40523240三段式提球機構](40523240san-duan-shi-ti-qiu-ji-gou.md)
+* [第十一週課堂查驗](week11/di-shi-yi-zhou-ke-tang-cha-yan.md)
+  * [40523201 三段式提球機構](week11/di-shi-yi-zhou-ke-tang-cha-yan/40523201-san-duan-shi-ti-qiu-ji-gou.md)
+  * [40523240 三段式提球機構](week11/di-shi-yi-zhou-ke-tang-cha-yan/40523240.md)
 * [40523201三段式提球機構](40523201san-duan-shi-ti-qiu-ji-gou.md)
+* [40523240三段式提球機構](40523240san-duan-shi-ti-qiu-ji-gou.md)
 
