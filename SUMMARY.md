@@ -12,4 +12,6 @@
 * [40523240三段式提球機構](40523240san-duan-shi-ti-qiu-ji-gou.md)
 * [40523201三段式提球機構](40523201san-duan-shi-ti-qiu-ji-gou.md)
 * [40523203三段式提球機構](40523203san-duan-shi-ti-qiu-ji-gou.md)
+* [Week12](week12.md)
+  * [分組任務](week12/fen-zu-ren-wu.md)
 
