@@ -10,17 +10,13 @@
 
 ![](/assets/機構.jpg)
 
-### [連桿STL檔](https://legacy.gitbook.com/book/s40523203/2b-group2/edit#) {#各組在-w11-上課前-必須拍攝利用此一雙階段提球機構-將球送到各組目前既有的軌道模組循環運行至少兩次的模擬影片}
+# [solvespace檔連結](https://github.com/s40523201/cd2018/blob/gh-pages/%E9%80%A3%E6%A1%BF%E6%AA%94%E6%A1%88%28%E6%9B%B4%E6%96%B0%29/40523240.slvs)
 
-### [SolveSpace檔](https://legacy.gitbook.com/book/s40523203/2b-group2/edit#) {#各組在-w11-上課前-必須拍攝利用此一雙階段提球機構-將球送到各組目前既有的軌道模組循環運行至少兩次的模擬影片}
+# [ttt檔連結](https://github.com/s40523201/cd2018/blob/gh-pages/%E9%80%A3%E6%A1%BF%E6%AA%94%E6%A1%88%28%E6%9B%B4%E6%96%B0%29/%E7%AC%AC%E4%BA%8C%E7%B5%84%EF%BC%88%E4%BA%8C%E9%80%A3%E8%B6%95%E8%83%BD%E5%8B%95%EF%BC%89.ttt)
 
-## ![](/assets/123.png) {#pyslvs-機構設計模擬檔}
+## ![](/assets/123.jpg) {#pyslvs-機構設計模擬檔}
 
-### 組合方面還有問題還要慢慢調整 {#各組在-w11-上課前-必須拍攝利用此一雙階段提球機構-將球送到各組目前既有的軌道模組循環運行至少兩次的模擬影片}
-
-### [Pyslve機構模擬檔](https://github.com/s40523240/cd-2018/blob/gh-pages/40523240機構模擬檔.pyslvs) {#各組在-w11-上課前-必須拍攝利用此一雙階段提球機構-將球送到各組目前既有的軌道模組循環運行至少兩次的模擬影片}
-
-### Verp模擬的部分還沒完成 還需要一些時間。 {#各組在-w11-上課前-必須拍攝利用此一雙階段提球機構-將球送到各組目前既有的軌道模組循環運行至少兩次的模擬影片}
+# [Youtube模擬連結](https://www.youtube.com/watch?v=FLagaKiHDuM&feature=youtu.be)
 
 
 
